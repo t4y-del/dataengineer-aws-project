@@ -9,7 +9,7 @@ Finally, the data stored in S3 can be queried using Amazon Athena for analysis a
 The entire system is deployed and running on an AWS EC2 instance, providing a robust and scalable platform for efficient demand management and data analysis.
 
 ## AWS Architecture
-![Pipeline](file:///D:/PLUGINS%20(D)/Diagrama%20sin%20t%C3%ADtulo.drawio%20(1).png)
+![Diagrama sin título drawio (1)](https://github.com/user-attachments/assets/c8d48c20-c2e8-4f43-9623-1555583f8e2e)
 
 
 ## End
