@@ -13,4 +13,4 @@ The entire system is deployed and running on an AWS EC2 instance, providing a ro
 
 
 ## End
-You can find me on [LinkedIn](https://www.linkedin.com/in/t4y-del/).
+You can find me on [LinkedIn](https://www.linkedin.com/in/franco-maldonado-del/).
